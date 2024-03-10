@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/bin/Debug/net6.0/Exception-Claswork
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/bin/Debug/net6.0/Exception-Claswork.deps.json
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/bin/Debug/net6.0/Exception-Claswork.runtimeconfig.json
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/bin/Debug/net6.0/Exception-Claswork.dll
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/bin/Debug/net6.0/Exception-Claswork.pdb
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.dll
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/refint/Exception-Claswork.dll
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.pdb
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/Exception-Claswork.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Exception-Claswork/Exception-Claswork/obj/Debug/net6.0/ref/Exception-Claswork.dll
